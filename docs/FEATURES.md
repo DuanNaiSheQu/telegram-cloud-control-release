@@ -114,6 +114,7 @@
 | --- | --- |
 | **Telegram 交流群**（推荐，回得最快） | [t.me/TGCloudcontrol](https://t.me/TGCloudcontrol) |
 | **赞助支持**（GitHub Sponsors） | [github.com/sponsors/cafinxnull](https://github.com/sponsors/cafinxnull) |
+| **USDT 赞助（TRC20）** | `TYozr2b8tV4fikCuQYYvaHRCW555555555` |
 | **问题反馈** | [GitHub Issues](https://github.com/cafinxnull/telegram-cloud-control-release/issues) |
 
 赞助者的需求优先处理。进群请说明来意（自用 / 商用 / 二次开发）。

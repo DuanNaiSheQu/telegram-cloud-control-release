@@ -71,6 +71,7 @@
 | 方式 | 入口 |
 | --- | --- |
 | **GitHub Sponsors** | [github.com/sponsors/cafinxnull](https://github.com/sponsors/cafinxnull) |
+| **USDT（TRC20）** | `TYozr2b8tV4fikCuQYYvaHRCW555555555` ⚠️ 必须走 **TRC20** 网络 |
 | **其他方式** | 到 [交流群](https://t.me/TGCloudcontrol) 找我 |
 
 **赞助者的需求会优先处理**（提 issue、要功能、遇到问题都算）。
