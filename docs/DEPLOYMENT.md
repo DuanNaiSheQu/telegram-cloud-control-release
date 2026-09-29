@@ -130,15 +130,16 @@ make smoke               # 冒烟
 
 ---
 
-## 获取完整版 · 赞助 · 联系
+## 支持这个项目
 
-> **本发行版不含后端服务**（账号调度与风控核心）。需要完整后端、二次开发或商业授权，来交流群找我。
+**本项目已完整开源**，源码在 [DuanNaiSheQu/telegram-cloud-control](https://github.com/DuanNaiSheQu/telegram-cloud-control)。
+本仓库只是它的**预编译部署包**（前端产物 + 部署文档）。
 
 | 用途 | 入口 |
 | --- | --- |
-| **Telegram 交流群**（推荐，回得最快） | [t.me/TGCloudcontrol](https://t.me/TGCloudcontrol) |
-| **赞助支持**（GitHub Sponsors） | [github.com/sponsors/cafinxnull](https://github.com/sponsors/cafinxnull) |
+| **源码 / 提 Issue / 参与开发** | [DuanNaiSheQu/telegram-cloud-control](https://github.com/DuanNaiSheQu/telegram-cloud-control) |
+| **Telegram 交流群**（回得最快） | [t.me/TGCloudcontrol](https://t.me/TGCloudcontrol) |
+| **赞助支持** | [github.com/sponsors/DuanNaiSheQu](https://github.com/sponsors/DuanNaiSheQu) |
 | **USDT 赞助（TRC20）** | `TYozr2b8tV4fikCuQYYvaHRCW555555555` |
-| **问题反馈** | [GitHub Issues](https://github.com/cafinxnull/telegram-cloud-control-release/issues) |
 
-赞助者的需求优先处理。进群请说明来意（自用 / 商用 / 二次开发）。
+赞助者的需求优先处理。

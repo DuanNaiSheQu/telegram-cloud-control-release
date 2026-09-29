@@ -6,7 +6,7 @@
 
 | 方式 | 入口 |
 | --- | --- |
-| **GitHub Sponsors** | [github.com/sponsors/cafinxnull](https://github.com/sponsors/cafinxnull) |
+| **GitHub Sponsors** | [github.com/sponsors/DuanNaiSheQu](https://github.com/sponsors/DuanNaiSheQu) |
 | **其他方式（USDT / 微信 / 支付宝等）** | 到 [交流群](https://t.me/TGCloudcontrol) 找我 |
 
 ## 赞助者能得到什么
