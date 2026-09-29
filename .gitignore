@@ -1,0 +1,21 @@
+# 发行仓库只放编译产物与文档 —— 防止以后误把源码推上来
+*.py
+*.pyc
+__pycache__/
+*.ts
+*.tsx
+!*.d.ts
+node_modules/
+frontend/
+backend/
+.env
+.env.*
+!.env.example
+*.session
+*.session-journal
+materials/
+sessions/
+run/
+.pgdata/
+.redisdata/
+*.log
