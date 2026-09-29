@@ -33,6 +33,7 @@
 <p>
   <a href="#这是什么">说明</a> ·
   <a href="#包含--不包含">包含内容</a> ·
+  <a href="#界面预览">截图</a> ·
   <a href="#快速开始">快速开始</a> ·
   <a href="#获取完整版">获取完整版</a> ·
   <a href="#赞助支持">赞助</a> ·
@@ -59,6 +60,38 @@
 | ❌ **不包含** | 后端 API、Worker（Telegram 账号调度与风控核心） |
 
 **把本包装起来后界面能打开，但登录与数据需要连接一个后端服务。**
+
+## 界面预览
+
+> 以下截图取自当前版本（`v0.5.4`），界面即实际形态。
+
+<div align="center">
+
+**登录**
+
+<img src="docs/assets/screenshots/login.png" width="820" alt="登录">
+
+**工作台** —— 在线概览、Worker 心跳、最近失败任务
+
+<img src="docs/assets/screenshots/dashboard.png" width="820" alt="工作台">
+
+**账号管理** —— 状态、健康分、设备身份、批量操作
+
+<img src="docs/assets/screenshots/accounts.png" width="820" alt="账号管理">
+
+**触达中心 · 批量群发** —— 一号一任务错峰入队
+
+<img src="docs/assets/screenshots/campaigns.png" width="820" alt="批量群发">
+
+**触达中心 · 批量私信**
+
+<img src="docs/assets/screenshots/bulk-pm.png" width="820" alt="批量私信">
+
+**任务中心** —— 按批次聚合，展开看实时执行日志
+
+<img src="docs/assets/screenshots/tasks.png" width="820" alt="任务中心">
+
+</div>
 
 ## 快速开始
 
