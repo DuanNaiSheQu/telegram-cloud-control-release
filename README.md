@@ -13,6 +13,7 @@
   <a href="https://github.com/cafinxnull/telegram-cloud-control-release/issues"><img src="https://img.shields.io/github/issues/cafinxnull/telegram-cloud-control-release?label=issues" alt="Issues"></a>
   <a href="https://github.com/cafinxnull/telegram-cloud-control-release/commits/main"><img src="https://img.shields.io/github/last-commit/cafinxnull/telegram-cloud-control-release?label=last%20commit" alt="Last commit"></a>
   <a href="https://t.me/TGCloudcontrol"><img src="https://img.shields.io/badge/Telegram-%E4%BA%A4%E6%B5%81%E7%BE%A4-2AABEE?logo=telegram&logoColor=white" alt="Telegram 交流群"></a>
+  <img src="https://img.shields.io/badge/license-Proprietary-red.svg" alt="License">
   <a href="https://github.com/sponsors/cafinxnull"><img src="https://img.shields.io/badge/Sponsor-%E8%B5%9E%E5%8A%A9-EA4AAA?logo=githubsponsors&logoColor=white" alt="赞助"></a>
 </p>
 
